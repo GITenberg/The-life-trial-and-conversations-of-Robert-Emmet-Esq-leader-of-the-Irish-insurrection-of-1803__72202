@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '56578'
     url: http://www.gutenberg.org/2009/agents/56578
     wikipedia: https://en.wikipedia.org/wiki/Robert_Emmet
+covers:
+- cover_type: archival
+  image_path: 72202-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -21,6 +24,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72202#The-life-trial-and-conversations-of-Robert-Emmet-Esq-leader-of-the-Irish-insurrection-of-1803_
 gutenberg_issued: '2023-11-22'
 identifiers:
   gutenberg: '72202'
